@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 #Usage
 ```
-usage: bbb.py [-h] -t TYPE -d DICT_FILE -o OUTPUT_FILE [-s SERVER] [-p PORT]
+usage: bbb.py [-h] [-t TYPE] [-d DICT_FILE] [-o OUTPUT_FILE] [-s SERVER] [-p PORT]
               [-c CHAIN] [-k] [--version]
 
 A script to perform bruteforce dictionary attacks on brainwallets.
